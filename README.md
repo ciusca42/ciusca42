@@ -25,7 +25,9 @@ Hi there! I'm a passionate developer studying at [42 Florence](https://www.42fir
 
 I have a deep love for **video games** 🎮.
 
-I also have a big passion for **films** 🎬 and **aviation** ✈️.
+I spent most of my nights watching **films** 🎬.
+
+My secret passion is **aviation** ✈️ tho.
 
 My journey in tech is driven by curiosity and a constant desire to learn and grow.
 
